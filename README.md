@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Google clone
 
-## Getting Started
+// Create google clone project
 
-First, run the development server:
+Source Project > https://www.youtube.com/watch?v=LlEDKuhenFs&t=3008s
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project created by three steps (Components)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Header
+2. Main
+3. Footer
+4. Working > Logic
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Header 20-39 minutes
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Main 39-56 minutes
 
-## Learn More
+Footer 56-1:02 minutes
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Working Logic 1:02 - 1:16 minutes
+"# Google-clone" 
